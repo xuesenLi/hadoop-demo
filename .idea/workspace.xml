@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95c2efad-8a63-4915-8330-d4ac19b903b4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hadoop-train-v2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\localWarehouse\repository" />
+        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\Program Files\Java\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dRneFp7psP3xHM6BEOOgIGWuxL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/lxs/bigdata/mr/access" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lxs.bigdata.mr.wc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_bigdata_01\hadoop-train-v2\src\main\java\com\lxs\bigdata\mr\access" />
+      <recent name="D:\workspace_bigdata_01\hadoop-train-v2" />
+      <recent name="D:\workspace_bigdata_01\hadoop-train-v2\input" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AccessLocalApp">
+    <configuration name="AccessLocalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxs.bigdata.mr.access.AccessLocalApp" />
+      <module name="hadoop-train-v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxs.bigdata.mr.access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccessYARNApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxs.bigdata.mr.access.AccessYARNApp" />
+      <module name="hadoop-train-v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxs.bigdata.mr.access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VideoEncoderUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxs.bigdata.utils.VideoEncoderUtil" />
+      <module name="hadoop-train-v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxs.bigdata.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxs.bigdata.mr.wc.WordCountApp" />
+      <module name="hadoop-train-v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxs.bigdata.mr.wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountLocalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxs.bigdata.mr.wc.WordCountLocalApp" />
+      <module name="hadoop-train-v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxs.bigdata.mr.wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AccessLocalApp" />
+        <item itemvalue="Application.AccessYARNApp" />
+        <item itemvalue="Application.WordCountLocalApp" />
+        <item itemvalue="Application.VideoEncoderUtil" />
+        <item itemvalue="Application.WordCountApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95c2efad-8a63-4915-8330-d4ac19b903b4" name="Default Changelist" comment="" />
+      <created>1592396866050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592396866050</updated>
+      <workItem from="1592396867847" duration="8157000" />
+      <workItem from="1592441723872" duration="7022000" />
+      <workItem from="1592475550697" duration="664000" />
+      <workItem from="1592545259148" duration="10521000" />
+      <workItem from="1592558406894" duration="230000" />
+      <workItem from="1592558725745" duration="642000" />
+      <workItem from="1592618705643" duration="474000" />
+      <workItem from="1592654698980" duration="6684000" />
+      <workItem from="1592700388971" duration="6140000" />
+      <workItem from="1592716384689" duration="8362000" />
+      <workItem from="1592740824163" duration="2169000" />
+      <workItem from="1592833472216" duration="4356000" />
+      <workItem from="1592873233237" duration="661000" />
+      <workItem from="1592890137881" duration="8128000" />
+      <workItem from="1592959567763" duration="2780000" />
+      <workItem from="1592973393435" duration="6383000" />
+      <workItem from="1593062824520" duration="41000" />
+      <workItem from="1593566748231" duration="1783000" />
+      <workItem from="1593651083487" duration="131000" />
+      <workItem from="1594040401554" duration="3974000" />
+      <workItem from="1594082873014" duration="193000" />
+      <workItem from="1594213989767" duration="2763000" />
+      <workItem from="1594255421072" duration="373000" />
+      <workItem from="1594298738745" duration="559000" />
+      <workItem from="1594341836802" duration="610000" />
+      <workItem from="1594363315014" duration="1421000" />
+      <workItem from="1594372924017" duration="698000" />
+      <workItem from="1594518579323" duration="5420000" />
+      <workItem from="1594601167933" duration="1224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
